@@ -1,0 +1,104 @@
+body{
+    font-family: "맑은고딕";
+    background-color: #ffffff;
+    
+}
+
+header{
+    width: 50%; 
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffc4c4;
+    padding: 10px;
+    overflow: hidden;
+    
+}
+
+header h1{
+    width: 100%;
+    float: left;
+    color: #fff;
+    font-size: 30px;
+}
+
+header nav{
+    width: 100%
+        float: right;
+   
+    
+}
+
+nav-container{
+    display: block;
+        width: 100;
+        margin: 0 auto;
+        padding: 0;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+nav ul li{
+    display: block;
+    float: left;
+margin: auto;
+    width: 25%;
+    padding: 1em 0;
+    font-family: "맑은고딕";
+    
+    
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+p{
+    font-size: 15px;
+    line-height: 20px;
+}
+
+section{
+     width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+   border: 5px solid #a8a8a8;
+    padding: 5px;
+    
+}
+
+footer{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding: 10px;
+    background-color: #a8a8a8;
+    color: white;
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+    
+}
+td{
+    border: 1px solid #a8a8a8;
+    padding: 20px;
+}
+table{
+    width: 100px;
+    border: 1px solid #a8a8a8;
+    margin: auto;
+    
+}
+
+
+h2{
+     color: #a8a8a8
+}
